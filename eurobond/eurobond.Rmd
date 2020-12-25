@@ -1,0 +1,274 @@
+---
+title: "Progettare la ripresa economica"
+output:
+  revealjs::revealjs_presentation:
+    center: yes
+    css: eurobond-style.css
+    incremental: true
+date: "26 aprile 2020"
+---
+
+# Di che cosa si parla {.build}
+
+* Le basi: debito, tassi di interesse e lo spread
+* Che cosa ha fatto l'UE finora?
+  - Interventi di solidarietà
+  - Modifiche al budget europeo
+* Le misure dell'Eurogruppo
+* Il *Recovery Fund*
+* Il problema del debito comune e degli eurobond
+* Che si fa?
+
+# Le basi
+
+---
+
+Le `entrate` di uno stato sono principalmente attraverso le tasse.
+
+Se le `uscite` sono maggiori delle `entrate`, si devono cercare altre fonti di finanziamento: dei prestiti.
+
+## Il mercato del credito {.build}
+
+Si emettono `titoli` a diversa durata (`scadenza`). In Italia sono di [molti tipi](http://www.dt.mef.gov.it/it/debito_pubblico/titoli_di_stato/quali_sono_titoli/), in particolare:
+
+* `BOT`: **Buoni Ordinari del Tesoro** con `scadenza` a 3 6 o 12 *mesi*, senza `cedola`.
+* `BTP`: **Buoni del Tesoro Poliennali** con `scadenza` a 3 5 10 15 30 *anni*, con `cedola semestrale`.
+* **`BTP` Italia** con `scadenza` a 4 6 o 8 anni, `indicizzato all'inflazione`, con `cedola semestrale`.
+
+## Non esistono pasti gratis {.build}
+
+Indebitarsi ha un costo: il `tasso di interesse`.
+
+* Perché è un servizio che viene offerto.
+* Perché chi presta può ricevere i soldi indietro dopo qualche anno e quindi deve `preservarne il valore`.
+
+## Il rischio
+
+Il `tasso di interesse` è direttamente proporzionale al `rischio`.
+
+## Lo spread {.build}
+
+* Lo `spread` è letteralmente il `divario`. In Europa, indica la differenza in punti base 
+(`pb`) tra i titoli di stato tedeschi (`BUND`) e quelli di un altro paese.
+* Ieri alle 18 era pari a `238 pb` e cioè il tasso di interesse dei `BTP 10y` italiani era superiore a quello tedesco del `2.38%`
+
+## Quanto ci costa il debito
+
+*«Se il tasso di interesse è molto alto, lo Stato deve restituire sempre più soldi. È il caso dell’Italia, che nel solo 2017 ha pagato **65 miliardi** di interessi sul debito: praticamente il **doppio della media dei paesi europei**, rispetto al PIL»*
+
+---
+
+*«L’Italia è stata l’unico paese dell’Unione Europea in cui la spesa per interessi sul debito pubblico (e altre spese collegate), pari a 69 miliardi nel 2017, **ha ecceduto quella per l’istruzione**»*
+
+## Quanto ci costa il debito? {.build}
+
+Il rendimento medio nel [2019](http://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/debito_pubblico/dati_statistici/principali_tassi_interesse/Principali_tassi_di_interesse_2019.pdf)
+
+* `BOT`: `-0.041%`
+* `BTP` Italia `0.98%`
+* `BTP` 10y: `1.94`
+* `BTP` 15y: `3.28%`
+
+# Che cosa ha fatto l'UE finora?
+
+## Rimpatri
+
+A metà aprile 2020, le attività di rimpatrio coordinate con il sostegno dell'UE hanno aiutato oltre **650 000 cittadini europei all'estero** e consentito a **più di mezzo milione di cittadini** di tornare a casa, e ci si sta adoperando per raggiungere e rimpatriare un numero ancora maggiore di cittadini europei.
+
+---
+
+I voli di rimpatrio congiunti per riportare a casa cittadini dell'UE possono essere **cofinanziati dal bilancio dell'UE fino al 75%**.
+
+## Solidarietà
+
+Austria, Germania e Lussemburgo hanno messo le loro unità di terapia intensiva a disposizione dei pazienti di Paesi Bassi, Francia e Italia in condizioni critiche. Polonia, Romania e Germania hanno inviato squadre di medici per aiutare a curare i pazienti negli ospedali italiani. La Danimarca sta inviando in Italia ventilatori e attrezzature per ospedali da campo.
+
+## Sostegno alle imprese innovative {.build}
+
+* 220 milioni per lo sviluppo di vaccini
+* 165 milioni per sostenere PMI e startup per sviluppare soluzioni alla pandemia
+
+# Dal budget europeo
+
+## Modifiche al bilancio UE 2020 {.build}
+
+Oltre **3 miliardi** per:
+
+* acquistare e distribuire forniture mediche, tra cui dispositivi di protezione e ventilatori;
+* incentivare la produzione di dispositivi diagnostici;
+* installare ospedali da campo;
+* trasferire pazienti affinché siano curati in altri Stati membri;
+* rimpatriare cittadini dell'UE bloccati all'estero;
+
+## Fondi reindirizzati:
+
+---
+
+**37 miliardi** dal bilancio dell'UE a sostegno dei sistemi sanitari, delle piccole e medie imprese (PMI) e dei mercati del lavoro tramite l'*Iniziativa di investimento in risposta al coronavirus*.
+
+---
+
+**Fino a 28 miliardi di fondi strutturali** dalle dotazioni nazionali 2014-2020 non ancora assegnate a progetti, disponibili per la risposta alla crisi.
+
+---
+
+**Fino a 800 milioni dal Fondo di solidarietà** dell'UE destinati ai paesi più colpiti, grazie a un'estensione dell'ambito di applicazione del fondo a crisi sanitarie pubbliche.
+
+## Gli interventi della Commissione
+
+* Quasi **70 miliardi di euro**.
+* La **sospensione del Patto di Stabilità e Crescita**.
+* Un piano di aiuti esteri per **20 miliardi**.
+
+## La Banca Centrale Europea {.build}
+
+* `PEPP`: un piano straordinario di acquisto di titoli pubblici e privati per *almeno* **750 miliardi di euro per tutta la durata dell'emergenza e sicuramente fino alla fine del 2020**.
+* Superando il `capital key`, ossia il rapporto di titoli acquistati per paese europeo rispetto al PIL.
+* Accetterà come `collaterale` anche i titoli che saranno declassati a `spazzatura`.
+* No, non è ["stampa di moneta"](https://www.youtube.com/watch?v=NtKbBz-Nxzo).
+
+# Le misure dell'Eurogruppo {.build}
+
+---
+
+* Per superare la crisi, ogni stato dovrà indebitarsi.
+* L'FMI stima che il rapporto debito/PIL dell'Italia salirà del 22%, dato confermato anche dal [DEF](http://www.mef.gov.it/inevidenza/Approvato-il-DEF-2020-ripartire-dopo-lemergenza/) di ieri.
+* L'UE cerca di creare strumenti per ridurre il costo del debito.
+
+## L'Eurogruppo {.build}
+
+* È la riunione dei ministri delle finanze dei paesi dell'eurozona (19 su 27).
+* È un "sottoinsieme" dell'Ecofin, la configurazione del Consiglio Europeo di tutti i ministri delle finanze.
+* Ha approvato un pacchetto di misure dal valore complessivo di **540 miliardi di euro**, che sarà attivato entro il 1 giugno.
+
+## SURE
+
+* È un fondo che serve a mobilitare rapidamente molte risorse per rafforzare ed estendere l’utilizzo degli ammortizzatori sociali già esistenti, o addirittura permettere di istituire una misura equivalente alla *cassa integrazione* nei paesi in cui non fosse prevista.
+
+---
+
+* È pensata per fare in modo che gli Stati Membri possano tutelare i lavoratori stagionali o nei settori che sono più colpiti dalle misure di distanziamento sociale, come i camerieri (in particolare, Italia e Spagna).
+
+## Come funziona? {.build}
+
+* Gli Stati membri versano su base volontaria una quota in funzione del PIL per costruire un fondo di garanzia di **25 miliardi**.
+* La Commissione Europea emette titoli per raccogliere **fino a 100 miliardi** da prestare ai paesi più bisognosi a condizioni vantaggiose.
+* I primi tre paesi beneficiari della misura non potranno avere complessivamente più del 60% dei fondi raccolti.
+
+## La BEI {.build}
+
+* È una banca multilaterale europea che co-finanzia PMI e progetti innovativi nell'ambito del clima, dello sviluppo e dell'innovazione.
+* I suoi fondi di garanzia sono costituiti prevalentemente dagli stati membri.
+
+---
+
+* La Bei ha finanziato quasi 5000 progetti in Italia, investendo oltre 220 miliardi di euro nel nostro paese dalla data della sua fondazione (quasi 150 miliardi solo negli ultimi 15 anni).
+* Emette obbligazioni di **rating AAA**: i più sicuri e quindi con tassi di interesse bassissimi.
+
+## Che ha fatto e che farà {.build}
+
+* Ha già creato un fondo di garanzia per **40 miliardi** per sostenere le PMI durante l'emergenza.
+* Creerà un fondo di garanzia di **25 miliardi** per emettere obbligazioni fino a **200 miliardi di euro** per prestiti agevolati alle imprese.
+
+## Il MES {.build}
+
+* Attivazione di una linea di credito speciale con condizionalità legate solo alla spesa sanitaria diretta o indiretta.
+* Utilizzare le garanzie già presenti (**80 miliardi**) per raccogliere fino a **240 miliardi di euro**.
+
+---
+
+* Ogni paese potrà chiedere fino al 2% del PIL: per l'Italia si tratta di **oltre 35 miliardi di euro**.
+* Le condizioni del prestito sono da negoziare, come la scadenza (verosimilmente lunga).
+
+# Il *Recovery Fund* {.build}
+
+---
+
+* Per rilanciare l'economia il Consiglio Europeo del 23 aprile ha dato mandato alla Commissione Europea di progettare un fondo temporaneo per emettere obbligazioni a livello europeo.
+* Angela Merkel ha dichiarato che sarà necessario aumentare il bilancio pluriennale europeo.
+* Ursula Von Der Leyen ha dichiarato che "non si tratta di miliardi, ma di migliaia di miliardi".
+* Concretamente, però, non si è deciso nulla: né quanto grande sarà, né se erogherà prestiti o sussidi a fondo perduto.
+
+## Le proposte {.build}
+
+* La Spagna e il fronte degli ["Amici della Coesione"](https://www.linkiesta.it/2020/04/coronavirus-coronabond-mes-sure-bei-consiglio-europeo/) vuole un fondo da 1.500 miliardi per erogare sussidi: si tratta del cosiddetto debito perenne.
+* Questo debito farebbe capo alla Commissione Europea, che pagherebbe ogni anno gli interessi grazie a un ampliamento del budget europeo.
+
+## Il Budget Pluriennale Europeo
+
+* In inglese è il *Multiannual Financial Framework (MFF)*, perché è "spalmato" su sette anni.
+* È il fondo gestito dalle istituzioni europee che ammonta a poco più dell'1% del Reddito Nazionale Lordo dell'UE. I contributi di ogni paese sono versati in proporzione al loro reddito.
+
+---
+
+* Prima della pandemia, nei negoziati si contrapponevano i paesi del sud, a favore di una sua espansione (circa l'1.08%), e quelli nel nord, che non volevano superare l'1%.
+* Con la creazione del Fondo per la ripresa, è verosimile che arriverà al 2%.
+
+## Che cosa dice Von Der Leyen {.build}
+
+* Aumento dei contributi al MFF fino al 2% del PNL.
+* Gli obiettivi del fondo: investimenti, coesione e convergenza.
+* Green New Deal, trasformazione digitale e "autonomia strategica", cioè creare e rafforzare le linee di produzione strategica per non dover essere troppo dipendenti dai paesi Extra-UE.
+
+# I problemi del debito comune {.build}
+
+---
+
+* Tutti i paesi europei devono far fronte alla crisi e sostengono spese ingenti: in totale **1700 miliardi solo per la Germania**.
+* I trasferimenti a fondo perduto significano ingenti trasferimenti dai paesi del nord a quelli del sud: un risultato difficile da ottenere durante i negoziati.
+* I problemi non sono solo politici, ma anche **tecnici**.
+
+## Chi paga? La mutualizzazione del debito {.build}
+
+* In altre parole, di chi è la responsabilità per un default?
+
+* Responsabilità individuale vs responsabilità in solido (*joint liability*).
+
+## Un esperimento mentale {.build}
+
+* Supponiamo che si emettano Eurobond per 100 euro, e che un paese faccia default per 10 euro. Quanto sarà chiamata a pagare la Germania?
+
+* Pagherà la sua quota dei 10 euro, cioè circa 3 euro (Il PIL della Germania è circa il 30 percento di quello dell’Eurozona)...
+
+---
+
+* Errato: in caso di responsabilità in solido, qualunque paese europeo potrà essere chiamato a risarcire la quota del paese andato in default, nella sua totalità.
+
+* Poi saranno i paesi europei a farseli restituire, nei modi e nei tempi concordati.
+
+## Chi riceve? E quanto? {.build}
+
+* Poniamo che l'UE si indebiti. Come distribuiamo i soldi?
+
+* Se il criterio fosse la proporzionalità rispetto al PIL, il risultato sarebbbe solo che l'Italia si indebiterebbe a un tasso inferiore a quello attuale.
+
+* In altre parole, varrebbe la pena indebitarsi direttamente con il MES: è un'istituzione già operativa che non ha bisgono di essere disegnata da zero.
+
+---
+
+* Inoltre, paesi come la Germania si dovrebbero indebitare a un costo più alto, perché è verosimile che questi titoli avrebbero un tasso di interesse più alto di quello dei BUND.
+
+* Al contrario, se la ripartizione non fosse proporzionale, i paesi più ricchi dovrebbero pagare ancora di più.
+
+---
+
+* Un'alternativa sarebbe istituire delle tasse europee, almeno per ripagare gli interessi sul debito comune -- ad esempio alzando la quota dell'IVA (infima) che va al bilancio UE.
+
+# Che si fa? {.build}
+
+---
+
+* L'unione fiscale è certamente auspicabile, soprattutto per far fronte a *shock asimmetrici*.
+
+* È anche un meccanismo di redistribuzione ulteriore verso la periferia dell'Europa (la Germania è il maggior contributore al MFF e non riceve mai tanto quanto versa, così come Francia e Italia).
+
+---
+
+* Ma si tratta di un obiettivo politicamente difficile da realizzare *in breve tempo*, visto soprattutto il carattere *simmetrico* di questa crisi.
+* La soluzione più efficace è quella di strumenti temporanei di emissione di debito comune, che sfruttino le strutture esistenti e l'appoggio della BCE.
+
+---
+
+* Il completamento dell'unione fiscale richiederà un piano di ristrutturazione del debito dei paesi come l'Italia (a oggi impensabile).
+* Magari accanto a una revisione delle regole europee per ricevere fondi strutturali (legandoli, come sostenuto da paesi come la Germania, al funzionamento dello stato di diritto).
+* Servirà un enorme capitale politico, lungimiranza e unità.
